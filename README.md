@@ -1,12 +1,6 @@
 # News Analysis
-In this notebook, we will analyze a dataset containing information about news articles. Our goal is to identify trends and anomalies that could help us understand what makes a news article potentially viral, i.e., get a lot of hits from readers.
+I'll be looking at a dataset of data about news items today. In order to understand what makes a news piece potentially go viral, or receive a lot of reader hits, our goal is to find trends and anomalies.
 
 ## Steps
-We will go through the following steps:
 
-1. Load the data
-2. Explore the data
-3. Visualize the data
-4. Identify trends and anomalies
-
-Each step is important in our analysis. Loading the data is our starting point. Exploring the data helps us understand what information we have. Visualizing the data allows us to see patterns and relationships. Finally, identifying trends and anomalies gives us insights that we can use to tell a compelling story.
+Each stage of our investigation is significant. Our first step is to load the data. We can better grasp the information we have by exploring the data. We can recognize patterns and relationships in the data by visualizing it. A fascinating story can be told using the information we gain from noticing trends and anomalies.
